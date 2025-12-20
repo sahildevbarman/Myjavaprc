@@ -1,12 +1,10 @@
-class B {
+class C {
     public static void main(String[] args) {
         String x = new String("om");
-        String y = new String("om");
-
-        boolean a = x == y;
+        String y = new String("OM");
+        
         boolean b = x.equals(y);
 
-        System.out.println(a);
         System.out.println(b);
     }
 }
