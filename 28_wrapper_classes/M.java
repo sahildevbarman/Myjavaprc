@@ -1,6 +1,6 @@
-class J1 {
+class M {
     public static void main(String[] args) {
-        Short x = Short.valueOf("11001", 8);
+        Integer x = Integer.valueOf("453");
 
         System.out.println(x);
     }
