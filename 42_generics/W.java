@@ -8,6 +8,3 @@ class W {
         ArrayList<? extends CharSequence> x4 = new ArrayList<StringBuilder>();
     }
 }
-
-
-Displaying W.java.
